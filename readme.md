@@ -2,7 +2,7 @@
 ## Goal of Analysis
 We'll use the following notebook to do sentiment analysis on a set of tweets concerning the Covid-19 vaccination:
 
-*Pfizer/BioNTech
+* Pfizer/BioNTech
 *Sinopharm
 *Sinovac
 *Moderna
